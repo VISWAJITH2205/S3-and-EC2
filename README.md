@@ -7,11 +7,12 @@
 ---
 
 # Aim:
+
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
 ---
 
-# Procedure 
+# Procedure :
 
 a) Steps to Create a first S3 Bucket:
 
@@ -72,11 +73,14 @@ Select your instance → Instance State → Terminate.
 
 Simple Storage Service:
 
+
+
 ![Screenshot 2025-05-21 155249](https://github.com/user-attachments/assets/607c9b31-3d38-4d84-877b-97db8854e202)
 
 
 
 EC2(Elastic Cloud Compute)
+
 
 
 ![Screenshot 2025-05-21 155307](https://github.com/user-attachments/assets/d82d3d51-8a19-475e-a202-adddd633c191)
